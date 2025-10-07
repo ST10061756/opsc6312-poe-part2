@@ -1,12 +1,12 @@
 Exploreo ReadMe File 
 
-🧾 Purpose / Short Description
+🧾 Purpose / 
 Exploreo is a modern tourism application designed to highlight South Africa’s diverse travel destinations.  
 It enhances the traditional travel experience by integrating offline functionality, multi-language support, guided tours, and personalized trip planning.  
 By combining smart technology with rich cultural content, Exploreo provides users with a seamless and interactive travel experience — even without internet access.
 
 
-✨ Main Features
+✨ Main Features/
 Offline Mode: 
   Access maps, guides, and saved itineraries without an internet connection.  
 - Multi-Language Support: 
