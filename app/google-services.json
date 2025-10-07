@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "446086440197",
+    "project_id": "touristapp-c6074",
+    "storage_bucket": "touristapp-c6074.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446086440197:android:2896cd62f61322f593c36c",
+        "android_client_info": {
+          "package_name": "com.example.exploreo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdhY2fz02yKE2JgH2BxREjt_zCqJ_HTjM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
