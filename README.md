@@ -27,11 +27,11 @@ Offline Mode:
 🧩 Tech Stack
 Component                       Technology 
 
-Frontend:                       Kotlin 
-Backend:                        Google Cloud Platform 
-Database & Authentication:      Firebase 
-Maps & Geolocation:             Geoapify API 
-Cloud Storage:                  Google Cloud Storage 
+Frontend:                       Kotlin, 
+Backend:                        Google Cloud Platform, 
+Database & Authentication:      Firebase, 
+Maps & Geolocation:             Geoapify API, 
+Cloud Storage:                  Google Cloud Storage, 
 Notifications:                  Firebase Cloud Messaging (FCM) 
 
 We integrated geoapify api into the tourist app by utilizing its geocoding services to convert addresses into geographic coordinates. I used the geoapify geocoding api to fetch latitude and longitude coordinates for various tourist attractions and landmarks. I also implemented reverse geocoding to provide users with human-readable addresses for specific coordinates. Additionally, I used the autocomplete feature to provide users with address suggestions as they search for locations. This allowed users to easily find and explore new places.
